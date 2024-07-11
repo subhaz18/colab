@@ -10,4 +10,4 @@ We will be using two datasets:
 
 Acknowledgments
 
-I would like to acknowledge Abid Ali Awan(https://deepnote.com/app/abid/spaCy-Resume-Analysis-81ba1e4b-7fa8-45fe-ac7a-0b7bf3da7826) for his guidance and support throughout this project. His insights and feedback have been instrumental in shaping the final outcome.
+I would like to acknowledge [Abid Ali Awan](https://deepnote.com/app/abid/spaCy-Resume-Analysis-81ba1e4b-7fa8-45fe-ac7a-0b7bf3da7826) for his guidance and support throughout this project. His insights and feedback have been instrumental in shaping the final outcome.
