@@ -1,6 +1,6 @@
 # colab
 Spacy resume Analysis
-Resume Entity Recognition Project
+(Resume Entity Recognition Project)
 
 This project utilizes SpaCy for entity recognition on 200 resumes and explores various NLP tools for text analysis. The primary goal is to assist recruiters in quickly reviewing hundreds of applications. Additionally, a skills matching feature has been implemented to provide hiring managers with a metric to decide whether a candidate should advance to the interview stage.
 
